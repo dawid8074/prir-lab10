@@ -1,0 +1,1 @@
+Karta grficzna jet stworzona do obsługi duzych ilości danych. Podczas gdy na procesorze widać wyraźny wzrost wykorzystania zasobów, na gpu czas cały czas pozostaje tak samo niski
